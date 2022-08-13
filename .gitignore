@@ -130,3 +130,4 @@ dmypy.json
 src/settings.env
 .DS_Store
 .idea
+assets/.DS_Store
